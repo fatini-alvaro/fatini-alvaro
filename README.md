@@ -26,9 +26,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-%23316192.svg?style=for-the-badge&logo=Pascal&logoColor=whit)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatini-alvaro&show_icons=true&locale=en&layout=compact" alt="fatini-alvaro" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatini-alvaro&show_icons=true&locale=en" alt="fatini-alvaro" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatini-alvaro&" alt="fatini-alvaro" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlvaroFatini&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=85b68d93-ecd4-4158-a2b2-aa1b61653d4b&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
 [![wakatime](https://wakatime.com/badge/user/85b68d93-ecd4-4158-a2b2-aa1b61653d4b.svg)](https://wakatime.com/@85b68d93-ecd4-4158-a2b2-aa1b61653d4b)
